@@ -10,7 +10,7 @@ flet version：0.85.3
 
 ## 原图片
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="45%" align="left">
       <img src="assets/1.jpg" alt="图片1" style="width: 100%;">
