@@ -12,7 +12,7 @@ flet version：0.85.3
 
 <p align="left">
   <img src="assets/1.jpg" alt="图片1" width="45%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="assets/2.jpg" alt="图片2" width="45%" align="right">
 </p>
 
