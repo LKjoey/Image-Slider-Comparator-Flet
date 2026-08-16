@@ -10,17 +10,11 @@ flet version：0.85.3
 
 ## 原图片
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="45%" align="left">
-      <img src="assets/1.jpg" alt="图片1" style="width: 100%;">
-    </td>
-    <td width="10%"></td>
-    <td width="45%" align="right">
-      <img src="assets/2.jpg" alt="图片2" style="width: 100%;">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/1.jpg" alt="图片1" width="45%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/2.jpg" alt="图片2" width="45%" align="right">
+</p>
 
 <br/>
 
