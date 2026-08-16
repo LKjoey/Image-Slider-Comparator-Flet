@@ -4,11 +4,7 @@
 
 flet version：0.85.3
 
-
-
-### 效果
-
-## 原图片
+### 原图片
 
 <p align="left">
   <img src="assets/1.jpg" alt="图片1" width="45%">
@@ -17,9 +13,9 @@ flet version：0.85.3
 </p>
 
 <br/>
-
+### 效果
+<br/>
 ![1.gif](1.gif)
-
 
 
 ### 使用方法
