@@ -11,13 +11,13 @@ flet version：0.85.3
 ## 原图片
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="assets/1.jpg" alt="图片1" style="width: 30%; height: auto; object-fit: cover;">
-  <img src="assets/2.jpg" alt="图片2" style="width: 30%; height: auto; object-fit: cover;">
+  <img src="assets/1.jpg" alt="图片1" style="width: 40%; height: auto; object-fit: cover;">
+  <img src="assets/2.jpg" alt="图片2" style="width: 40%; height: auto; object-fit: cover;">
 </div>
 
 ![1.gif](1.gif)
 
-<br />
+<br/>
 
 ### 使用方法
 
