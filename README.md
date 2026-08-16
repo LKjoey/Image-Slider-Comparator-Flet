@@ -10,10 +10,17 @@ flet version：0.85.3
 
 ## 原图片
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="assets/1.jpg" alt="图片1" style="width: 45%; height: auto; object-fit: cover;">
-  <img src="assets/2.jpg" alt="图片2" style="width: 45%; height: auto; object-fit: cover;">
-</div>
+<table>
+  <tr>
+    <td width="45%" align="left">
+      <img src="assets/1.jpg" alt="图片1" style="width: 100%;">
+    </td>
+    <td width="10%"></td>
+    <td width="45%" align="right">
+      <img src="assets/2.jpg" alt="图片2" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 <br/>
 
